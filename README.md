@@ -2,18 +2,16 @@
 
 # AI Vision: Personalized User Experiences Using Computer Vision and AI
 project by 
-
-AI Vision is a cutting-edge project aimed at delivering personalized user experiences through the integration of advanced computer vision, machine learning, and microservices. By analyzing real-time user attributes like age, gender, race, and emotions, this platform provides tailored recommendations for products, services, and content. The system is implemented with a robust tech stack to address challenges in retail, advertising, and online services.
-
-
-![image](https://private-user-images.githubusercontent.com/123085286/400205196-93778a97-9b20-4ff4-a358-2c762368e85b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYwODYxMzgsIm5iZiI6MTczNjA4NTgzOCwicGF0aCI6Ii8xMjMwODUyODYvNDAwMjA1MTk2LTkzNzc4YTk3LTliMjAtNGZmNC1hMzU4LTJjNzYyMzY4ZTg1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwNVQxNDAzNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjQzMGE4MWFkZmZkMjNmYjIxYThmOTRlNGEwZWFlMDFkZTRjNDJlM2Q2ZThiZjZhYzA4MjUyZWM2YWM0Zjg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yx2WLAe-yLRlCiKXjxDx7YwwknWO8BzN7_Ie1rUMGHI)
-
----
 ## Authors
 
 - [Mohammad Moataz](https://github.com/MohammadMoataz2)
 
 - [Masa Aladwan](https://github.com/MasaAladwan)
+- 
+AI Vision is a cutting-edge project aimed at delivering personalized user experiences through the integration of advanced computer vision, machine learning, and microservices. By analyzing real-time user attributes like age, gender, race, and emotions, this platform provides tailored recommendations for products, services, and content. The system is implemented with a robust tech stack to address challenges in retail, advertising, and online services.
+
+
+![image](https://private-user-images.githubusercontent.com/123085286/400205196-93778a97-9b20-4ff4-a358-2c762368e85b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYwODYxMzgsIm5iZiI6MTczNjA4NTgzOCwicGF0aCI6Ii8xMjMwODUyODYvNDAwMjA1MTk2LTkzNzc4YTk3LTliMjAtNGZmNC1hMzU4LTJjNzYyMzY4ZTg1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwNVQxNDAzNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjQzMGE4MWFkZmZkMjNmYjIxYThmOTRlNGEwZWFlMDFkZTRjNDJlM2Q2ZThiZjZhYzA4MjUyZWM2YWM0Zjg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yx2WLAe-yLRlCiKXjxDx7YwwknWO8BzN7_Ie1rUMGHI)
 
 
 

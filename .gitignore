@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Logs and temporary files
+*.log
+tmp/
+
+# Python cache files
+*.pyo
+*.pyd
+
+# Test result files
+*.coverage
+.cache
+
+# Pytest cache
+tests/__pycache__/
+.pytest_cache/
+
+# Sensitive files
+debug.log
+config.json

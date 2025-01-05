@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  redis:
+    image: "redis:alpine"
+    command: redis-server --save 60 1 --loglevel warning
+    volumes:
+      - ./data/redis:/data
+    ports:
+      - 6379:6379
+  dashboard:
+    image: redislabs/redisinsight # https://registry.hub.docker.com/r/redislabs/redisinsight
+    # command: celery --broker=redis://redis:6379/0 flower --port=5555
+    ports:
+      - 8001:8001
+    volumes:
+      - ./data/redisinsight:/db

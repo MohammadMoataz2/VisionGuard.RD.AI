@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  tracking_server:
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: mlflow_server
+    container_name: mlflow_server
+
+    networks:
+      - shared_network
+    ports:
+      - "${MLFLOW_PORT}:${MLFLOW_PORT}"
+    environment:
+      - AWS_ACCESS_KEY_ID=${MINIO_ACCESS_KEY}
+      - MLFLOW_PORT=${MLFLOW_PORT}
+      - AWS_SECRET_ACCESS_KEY=${MINIO_SECRET_ACCESS_KEY}
+      - MLFLOW_S3_ENDPOINT_URL=http://s3:${MINIO_PORT}
+      - MLFLOW_S3_IGNORE_TLS=true
+    command: >
+      mlflow server
+      --backend-store-uri mysql+pymysql://${MYSQL_USER}:${MYSQL_PASSWORD}@mlflow_db:${MYSQL_PORT}/${MYSQL_DATABASE}
+      --host 0.0.0.0
+      --serve-artifacts
+      --artifacts-destination s3://${MLFLOW_BUCKET_NAME}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:${MLFLOW_PORT}/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  shared_network:
+    external: true

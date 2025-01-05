@@ -1,0 +1,5 @@
+mlflow
+virtualenv
+python-dotenv
+deepface
+tf-keras

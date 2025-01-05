@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  redis:
+    image: redis:7-alpine
+    restart: always
+    ports:
+      - "6379:6379"
+    networks:
+      - shared-network
+
+  redis-insight:
+    image: redis/redisinsight:latest
+    restart: always
+    ports:
+      - "5540:5540"
+    volumes:
+      - redis-insight:/data
+    networks:
+      - shared-network
+
+volumes:
+  redis-insight:
+
+networks:
+  shared-network:

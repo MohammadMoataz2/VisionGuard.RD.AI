@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  db:
+    restart: always
+    image: mysql:8.0
+    container_name: mlflow_db
+    ports:
+      - "${MYSQL_PORT}:${MYSQL_PORT}"
+    environment:
+      - MYSQL_ROOT_PASSWORD=root_password
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+    volumes:
+      - ./db_data:/var/lib/mysql
+    networks:
+      - shared_network
+
+networks:
+  shared_network:
+    external: true

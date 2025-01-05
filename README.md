@@ -1,12 +1,10 @@
----
-
 # AI Vision: Personalized User Experiences Using Computer Vision and AI
 
 ## Authors
 
 - [Mohammad Moataz](https://github.com/MohammadMoataz2)
-
 - [Masa Aladwan](https://github.com/MasaAladwan)
+
 
 AI Vision is a cutting-edge project aimed at delivering personalized user experiences through the integration of advanced computer vision, machine learning, and microservices. By analyzing real-time user attributes like age, gender, race, and emotions, this platform provides tailored recommendations for products, services, and content. The system is implemented with a robust tech stack to address challenges in retail, advertising, and online services.
 

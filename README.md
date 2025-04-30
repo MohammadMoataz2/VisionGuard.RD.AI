@@ -9,8 +9,8 @@
 AI Vision is a cutting-edge project aimed at delivering personalized user experiences through the integration of advanced computer vision, machine learning, and microservices. By analyzing real-time user attributes like age, gender, race, and emotions, this platform provides tailored recommendations for products, services, and content. The system is implemented with a robust tech stack to address challenges in retail, advertising, and online services.
 
 
-![image](![image](https://github.com/user-attachments/assets/fbbdc2a9-493e-4e4b-a6e3-0fb7e8882ff0)
-)
+![image](https://github.com/user-attachments/assets/22fd24f7-02a3-4ce6-a276-f9c1ec897b9d)
+
 
 
 
@@ -44,19 +44,19 @@ In a fast-paced digital era, personalization is key to enhancing user engagement
 ## Technology Stack
 ## **Backend Framework:** FastAPI
 
-![image](![image](https://github.com/user-attachments/assets/285df6f1-9605-48df-bd55-c0300820aba7))
+![image](https://github.com/user-attachments/assets/e5917426-3f9a-4fcb-8c04-dc73d648f9bb)
 
 ## **Frontend Framework:** Reflex (for dynamic web apps)
 
-![image](![image](https://github.com/user-attachments/assets/2eb72c73-3c14-48f3-b0ce-abc232ad6b80))
+![image](https://github.com/user-attachments/assets/4500b7ee-9dcf-4f9a-80f5-136e776c8af8)
 
 ## **Database:** MongoDB, Redis
-![image](![image](https://github.com/user-attachments/assets/a4874939-ae00-4652-b53b-c07ebdefade5))
+![image](https://github.com/user-attachments/assets/8c6a1deb-3aaa-47b0-accd-e466f1872528)
 
 
-![image](![image](https://github.com/user-attachments/assets/63d45453-d5a2-4537-96be-c31d2e3ec4ae))
+![image](https://github.com/user-attachments/assets/3d1c2338-9b9e-4079-8e19-250fd7877c67)
 
-![image](c)
+![image](https://github.com/user-attachments/assets/73bb3335-7f6f-440d-9c31-a7cf7d426fc4)
 
 ## **Computer Vision:** OpenCV, DeepFace
 
@@ -65,15 +65,15 @@ In a fast-paced digital era, personalization is key to enhancing user engagement
 ## **Machine Learning Models:** Hugging Face (NLP), Custom Models
 ## **MLOps:** MLflow, MinIO, MySQL
 
-![image](![image](https://github.com/user-attachments/assets/b7fc6241-7d57-4e28-9c3e-2df40142abda)
-)
+![image](https://github.com/user-attachments/assets/79b68d82-60f8-4267-be6d-3b4066e49898)
 
-![image](![image](https://github.com/user-attachments/assets/9712713c-2045-4ebd-bea3-78a6a82bb425)
-)
+
+![image](https://github.com/user-attachments/assets/c1858236-f54f-46a0-b6be-aabf1a1c7fe0)
+
 
 ## **Deployment:** Docker, Microservices
 
-![image](![image](https://github.com/user-attachments/assets/a2bf61c3-08e0-48f2-b857-b73041bbc1ff))
+![image](https://github.com/user-attachments/assets/749505bd-0202-40cf-9471-98c1fc88bc6e)
 
 
 

@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7d591761-bd83-462e-9748-fc2f1c4146b4)# AI Vision: Personalized User Experiences Using Computer Vision and AI
+# AI Vision: Personalized User Experiences Using Computer Vision and AI
 
 ## Authors
 

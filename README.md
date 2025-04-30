@@ -9,8 +9,7 @@
 AI Vision is a cutting-edge project aimed at delivering personalized user experiences through the integration of advanced computer vision, machine learning, and microservices. By analyzing real-time user attributes like age, gender, race, and emotions, this platform provides tailored recommendations for products, services, and content. The system is implemented with a robust tech stack to address challenges in retail, advertising, and online services.
 
 
-![image](![image](https://github.com/user-attachments/assets/a387d0d9-4bc3-40bf-86f0-7fa59bee43f9)
-)
+![image](![image](https://github.com/user-attachments/assets/a387d0d9-4bc3-40bf-86f0-7fa59bee43f9))
 
 
 
@@ -44,21 +43,17 @@ In a fast-paced digital era, personalization is key to enhancing user engagement
 ## Technology Stack
 ## **Backend Framework:** FastAPI
 
-![image](![image](https://github.com/user-attachments/assets/285df6f1-9605-48df-bd55-c0300820aba7)
-)
+![image](![image](https://github.com/user-attachments/assets/285df6f1-9605-48df-bd55-c0300820aba7))
 
 ## **Frontend Framework:** Reflex (for dynamic web apps)
 
-![image](![image](https://github.com/user-attachments/assets/2eb72c73-3c14-48f3-b0ce-abc232ad6b80)
-)
+![image](![image](https://github.com/user-attachments/assets/2eb72c73-3c14-48f3-b0ce-abc232ad6b80))
 
 ## **Database:** MongoDB, Redis
-![image](![image](https://github.com/user-attachments/assets/a4874939-ae00-4652-b53b-c07ebdefade5)
-)
+![image](![image](https://github.com/user-attachments/assets/a4874939-ae00-4652-b53b-c07ebdefade5))
 
 
-![image](![image](https://github.com/user-attachments/assets/63d45453-d5a2-4537-96be-c31d2e3ec4ae)
-)
+![image](![image](https://github.com/user-attachments/assets/63d45453-d5a2-4537-96be-c31d2e3ec4ae))
 
 ![image](c)
 
@@ -77,8 +72,7 @@ In a fast-paced digital era, personalization is key to enhancing user engagement
 
 ## **Deployment:** Docker, Microservices
 
-![image](![image](https://github.com/user-attachments/assets/a2bf61c3-08e0-48f2-b857-b73041bbc1ff)
-)
+![image](![image](https://github.com/user-attachments/assets/a2bf61c3-08e0-48f2-b857-b73041bbc1ff))
 
 
 

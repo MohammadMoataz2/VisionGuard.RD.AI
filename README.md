@@ -1,4 +1,4 @@
-# AI Vision: Personalized User Experiences Using Computer Vision and AI
+![image](https://github.com/user-attachments/assets/7d591761-bd83-462e-9748-fc2f1c4146b4)# AI Vision: Personalized User Experiences Using Computer Vision and AI
 
 ## Authors
 
@@ -9,7 +9,8 @@
 AI Vision is a cutting-edge project aimed at delivering personalized user experiences through the integration of advanced computer vision, machine learning, and microservices. By analyzing real-time user attributes like age, gender, race, and emotions, this platform provides tailored recommendations for products, services, and content. The system is implemented with a robust tech stack to address challenges in retail, advertising, and online services.
 
 
-![image](https://private-user-images.githubusercontent.com/123085286/400207094-a2bab993-cdaa-4770-b6c2-f77dcd33ff40.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYwODc4MjMsIm5iZiI6MTczNjA4NzUyMywicGF0aCI6Ii8xMjMwODUyODYvNDAwMjA3MDk0LWEyYmFiOTkzLWNkYWEtNDc3MC1iNmMyLWY3N2RjZDMzZmY0MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwNVQxNDMyMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OTVkZGQ4ZjFkNDU3Y2RkZjhkZjQ1OTY1OWFhYjg3NGI2MzRkZTEzMDllOTUwOGU3YzgxZWQ3YTFlNzFjYmJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aRmeHsPtZEoHLldvI0g3Qb8KGTqLmhvl4bs6Ad3akeI)
+![image](![image](https://github.com/user-attachments/assets/a387d0d9-4bc3-40bf-86f0-7fa59bee43f9)
+)
 
 
 

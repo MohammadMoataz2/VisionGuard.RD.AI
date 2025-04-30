@@ -9,7 +9,8 @@
 AI Vision is a cutting-edge project aimed at delivering personalized user experiences through the integration of advanced computer vision, machine learning, and microservices. By analyzing real-time user attributes like age, gender, race, and emotions, this platform provides tailored recommendations for products, services, and content. The system is implemented with a robust tech stack to address challenges in retail, advertising, and online services.
 
 
-![image](![image](https://github.com/user-attachments/assets/a387d0d9-4bc3-40bf-86f0-7fa59bee43f9))
+![image](![image](https://github.com/user-attachments/assets/fbbdc2a9-493e-4e4b-a6e3-0fb7e8882ff0)
+)
 
 
 
